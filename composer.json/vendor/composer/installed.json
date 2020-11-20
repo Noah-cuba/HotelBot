@@ -1,0 +1,46 @@
+[
+    {
+        "name": "demouth/dmgeocoder",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/demouth/DmGeocoder.git",
+            "reference": "3f25127b49c4dbd688888e840280823fca5f5699"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/demouth/DmGeocoder/zipball/3f25127b49c4dbd688888e840280823fca5f5699",
+            "reference": "3f25127b49c4dbd688888e840280823fca5f5699",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.0"
+        },
+        "time": "2014-02-01T17:42:17+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Dm": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "demouth",
+                "homepage": "http://demouth.net/",
+                "role": "Developer"
+            }
+        ],
+        "description": "Geocoding library.",
+        "homepage": "https://github.com/demouth/DmGeocoder",
+        "keywords": [
+            "geocoder",
+            "geocoding"
+        ]
+    }
+]
